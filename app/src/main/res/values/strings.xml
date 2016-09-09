@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TabsApplication</string>
+    <string name="action_settings">Settings</string>
+    <string name="one">Fragment One</string>
+</resources>
